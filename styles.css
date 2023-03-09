@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    background-color: black;
+    color: white;
+}
+
+p {
+    color: #9da6b0;
+}
+
+.container-fluid {
+    padding: 3% 8%;
+}
+
+h1 {
+    font-family: 'Noto Serif', serif;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Noto Serif', serif;
+}
+
+img {
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+.img1 {
+    position: relative;
+    width: 100%;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 8%;
+    position: relative;
+}
+
+
+.navbar-brand {
+    font-family: 'Noto Serif', serif;
+}
+
+.btn2 {
+    background-color: yellow;
+    color: black;
+    height: 48px;
+    width: 150px;
+    font-family: 'Noto Serif', serif;
+}
+
+.btn2:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid yellow;
+}
+
+.heading {
+    padding: 4% 0%;
+}
+
+
+.description {
+    background-color: #2E3038;
+}
+
+.nav-link {
+    color: #9da6b0;
+}
+
+.nav-item {
+    padding: 0 10px;
+}
+
+
+.footer-description {
+    margin-bottom: 1.3%;
+}
+
+
+.footer {
+    background-color: #2E3038;
+    padding: 0.01% 8%;
+}
